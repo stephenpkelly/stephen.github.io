@@ -1,2 +1,3 @@
 name: Stephen Kelly
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title

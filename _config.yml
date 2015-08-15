@@ -1,5 +1,14 @@
 name: Stephen Kelly
 highlighter: pygments
-markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
-encoding: utf-8
+markdown: redcarpet
+permalink: /:title
+
+url:
+baseurl:
+
+redcarpet:
+  extensions: [strikethrough, tables]
+
+sass:
+  sass_dir: public/css
+  style: :compressed

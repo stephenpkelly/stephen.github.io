@@ -3,7 +3,7 @@ highlighter: pygments
 markdown: redcarpet
 permalink: /:title
 
-url:
+url: http://stephenjpkelly.com/
 baseurl:
 
 redcarpet:

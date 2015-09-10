@@ -9,7 +9,7 @@ I'm an analyst and developer based out of Dublin, Ireland and I enjoy all things
 
 Background:
 
-  * I have always been very fond of grand structures and in 2011 I graduated from DIT with a BEng in Structural Engineering. Engineering was always about the problem solving for me and in my penultimate year of study a lecturer of [mine](http://www.colincaprani.com/) introduced us to programs he had devolved for structural analysis. I was fascinated at how simple yet complex they were. From there my focus shifted to data and modelling. Although I still marvel at great engineering and architectural feats around the World, in truth I fell out of love with the limitations Joe Engineer had.  
+  * I have always been very fond of grand structures and in 2011 I graduated from DIT with a BEng in Structural Engineering. Engineering was always about the problem solving for me and in my penultimate year of study a lecturer of [mine](http://www.colincaprani.com/) introduced us to programs he had developed for structural analysis. I was fascinated at how simple yet complex they were. From there my focus shifted to data and modelling. Although I still marvel at great engineering and architectural feats around the World, in truth I fell out of love with the limitations Joe Engineer had.  
     I enjoy and relate to this quote by Jack Handey when I think of my engineering days
 	
 >I had dreams once. Once I wanted to build the world’s longest suspension bridge. But then I found out someone else had already done it.
@@ -18,7 +18,7 @@ Background:
   
     The cornerstone of the program was a dissertation. I undertook mine with [Coillte](http://www.coillte.ie/) the Irish State Forestry Company pronounced ˈkəilʲtʲə (good luck :)). It was incredible to delve into such an unusual and interesting domain and I will dedicate a full post to this project. But for those of you who can't wait it's titled _Prediction of Forestry Planned End Products Using Dirichlet Regression and Neural Networks_ and was published <a href="http://dx.doi.org/10.5849/forsci.14-023" target="_blank">here</a>.
 
-You all now know a good bit about me and but stay tuned identity thieves as my PPS number and Mother's maiden name will follow.
+You now all know a good bit about me but stay tuned identity thieves as my PPS number and Mother's maiden name will follow.
 
 As stated above I'm currently an analyst at an eCommerce telecommunications company with a main focus on fraud prevention and payment conversion.
 
